@@ -1,0 +1,11 @@
+.red{
+    color:red;
+}
+.lift {
+    transition: transform 0.3s ease;
+  }
+  
+  .lift:hover {
+    transform: translateY(-5px); /* Moves the button up by 5px on hover */
+  }
+  
